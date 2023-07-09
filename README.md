@@ -1,0 +1,2 @@
+# Maike
+Personal Discord Bot.
